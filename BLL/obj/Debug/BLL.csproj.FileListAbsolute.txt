@@ -1,0 +1,11 @@
+D:\Workspace\C#\SoundCloud\BLL\bin\Debug\BLL.dll
+D:\Workspace\C#\SoundCloud\BLL\bin\Debug\BLL.pdb
+D:\Workspace\C#\SoundCloud\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Workspace\C#\SoundCloud\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\SoundCloud\BLL\obj\Debug\BLL.dll
+D:\Workspace\C#\SoundCloud\BLL\obj\Debug\BLL.pdb
+D:\Workspace\C#\SoundCloud\BLL\bin\Debug\DAL.dll
+D:\Workspace\C#\SoundCloud\BLL\bin\Debug\DTO.dll
+D:\Workspace\C#\SoundCloud\BLL\bin\Debug\DAL.pdb
+D:\Workspace\C#\SoundCloud\BLL\bin\Debug\DTO.pdb
+D:\Workspace\C#\SoundCloud\BLL\obj\Debug\BLL.csproj.CopyComplete

@@ -1,0 +1,10 @@
+D:\Workspace\C#\SoundCloud\SoundCloud\bin\Debug\SoundCloud.exe.config
+D:\Workspace\C#\SoundCloud\SoundCloud\bin\Debug\SoundCloud.exe
+D:\Workspace\C#\SoundCloud\SoundCloud\bin\Debug\SoundCloud.pdb
+D:\Workspace\C#\SoundCloud\SoundCloud\obj\Debug\SoundCloud.csproj.AssemblyReference.cache
+D:\Workspace\C#\SoundCloud\SoundCloud\obj\Debug\SoundCloud.LoginForm.resources
+D:\Workspace\C#\SoundCloud\SoundCloud\obj\Debug\SoundCloud.Properties.Resources.resources
+D:\Workspace\C#\SoundCloud\SoundCloud\obj\Debug\SoundCloud.csproj.GenerateResource.cache
+D:\Workspace\C#\SoundCloud\SoundCloud\obj\Debug\SoundCloud.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\SoundCloud\SoundCloud\obj\Debug\SoundCloud.exe
+D:\Workspace\C#\SoundCloud\SoundCloud\obj\Debug\SoundCloud.pdb

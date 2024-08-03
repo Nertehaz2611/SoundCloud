@@ -1,0 +1,6 @@
+D:\Workspace\C#\SoundCloud\DTO\bin\Debug\DTO.dll
+D:\Workspace\C#\SoundCloud\DTO\bin\Debug\DTO.pdb
+D:\Workspace\C#\SoundCloud\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Workspace\C#\SoundCloud\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\SoundCloud\DTO\obj\Debug\DTO.dll
+D:\Workspace\C#\SoundCloud\DTO\obj\Debug\DTO.pdb
